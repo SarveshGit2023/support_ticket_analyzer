@@ -1,0 +1,10 @@
+Al Friday Season 2 - Problem Statements
+Customer Support Ticket Categorization and Response Suggestion Tool
+PROBLEM STATEMENT
+Customer support centers receive large volumes of tickets daily, covering diverse issues ranging from technical problems to billing queries, Manually categorizing and prioritizing tickets is labor-intensive and often inconsistent, leading to delayed responses and customer dissatisfaction. Support agents spend additional time drafting initial responses, slowing resolution time. Existing ticketing systems provide limited automation for understanding ticket content and suggesting replies. There is a need for a generative Al agent that can read incoming ticket texts, classify issues accurately, and suggest relevant response templates or answers to accelerate handling. This would improve customer satisfaction, reduce agent workload, and optimize support workflows.
+Data Considerations:
+Historical support tickets in text format with assigned categories and responses. Moderate volume datasets from open-source repositories or synthetic generation. Data preprocessing to anonymize sensitive data and clean text. Compliance with data privacy regulations essential. Synthetic ticket creation for demo scenarios.
+Consider using synthetic or anonymized data where appropriate. Ensure data quality and relevance to the problem
+context
+SOLUTION EXPECTATIONS
+A simple Ul where support agents input or upload tickets and receive Al-generated category labels and draft response suggestions. Features include confidence scores, manual override, and export to ticketing systems. Success metrice include classification accuracy, response relevance, and measured reduction in handling time. Prototype demonstrates Al's capability to streamline support operations, improving service quality and agent productivity. Feel free to explore creative solutions that align with the problem context and objectives.

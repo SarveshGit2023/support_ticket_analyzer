@@ -1,0 +1,8 @@
+chainlit
+chromadb
+langchain-openai
+python-dotenv
+httpx
+pandas
+PyYAML
+tqdm

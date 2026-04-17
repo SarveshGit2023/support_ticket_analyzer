@@ -1,0 +1,91 @@
+ticket_id,issue_category,priority,ticket_text,suggested_response,sentiment,Resolution time,Resolution provided (technical)
+T001,Delivery,High,My order was supposed to arrive yesterday but still not delivered.,We apologize for the delay. We have escalated your shipment and it will be delivered within 24 hours.,Negative,24 hours,Shipment escalated with courier
+T002,Refund,Medium,I returned the product last week but havent received refund yet.,Thank you for your patience. Your refund has been processed and should reflect within 3-5 business days.,Neutral,3 days,Refund initiated to original payment method
+T003,Billing,High,"Payment deducted twice for same order, pls help.",We regret the inconvenience. One transaction will be reversed within 2-3 business days.,Negative,2 days,Duplicate transaction reversed
+T004,Technical,Low,App keeps crashing when I open orders section.,Please update the app to the latest version or reinstall it. Let us know if the issue persists.,Neutral,1 day,App update fix suggested
+T005,Complaint,Medium,"Received wrong color item, not what I ordered.",We apologize for the mix-up. A replacement has been initiated for the correct item.,Negative,3 days,Replacement order created
+T006,Account,High,"Cant login to my account, says invalid password.",Please reset your password using 'Forgot Password'. We've also sent a reset link to your email.,Negative,1 day,Password reset link generated
+T007,Delivery,Medium,Delivery guy didnt call and marked it delivered.,We are sorry for this issue. We have raised a complaint and will arrange redelivery.,Negative,2 days,Redelivery arranged
+T008,Refund,Low,Refund processed but not showing in bank.,Refunds can take 5-7 days. Kindly check after that or contact your bank.,Neutral,5 days,Refund trace initiated
+T009,Technical,Medium,Website is very slow today.,We are currently experiencing high traffic. Our team is working to resolve it shortly.,Neutral,12 hours,Server load optimized
+T010,Billing,High,Payment failed but money debited.,We regret the inconvenience. The amount will be auto-refunded within 3 days.,Negative,3 days,Payment reversal initiated
+T011,Delivery,Low,Order arrived a bit late but its okay.,Thank you for your patience. We appreciate your understanding.,Positive,0,No action needed
+T012,Complaint,High,Product is defective and not working.,We are sorry to hear that. A replacement or refund can be arranged as per your preference.,Negative,2 days,Return pickup scheduled
+T013,Account,Medium,Account locked after multiple attempts.,Your account has been temporarily locked. Please try again after 30 minutes or reset your password.,Neutral,1 hour,Account unlock triggered
+T014,Refund,High,Still waiting for refund after 10 days.,We apologize for the delay. We have escalated your case and refund will be processed within 24 hours.,Negative,1 day,Manual refund processed
+T015,Billing,Medium,Invoice amount is incorrect.,Please share order details. We will verify and correct the billing discrepancy.,Neutral,2 days,Billing correction issued
+T016,Delivery,High,Order stuck in transit for 5 days.,We are investigating with courier. Expect delivery within 48 hours.,Negative,2 days,Shipment expedited
+T017,Technical,Low,Cant apply coupon code.,Please ensure the code is valid and applicable. Try clearing cache or using another browser.,Neutral,1 day,Coupon validation fixed
+T018,Complaint,Medium,Packaging was damaged.,We apologize. We will ensure better packaging in future and can arrange replacement if needed.,Negative,2 days,Replacement approved
+T019,Account,High,My account got hacked I think.,We have secured your account. Please reset your password immediately.,Negative,1 day,Security reset enforced
+T020,Refund,Medium,Refund amount is less than expected.,We will review your case and adjust any discrepancy if found.,Neutral,3 days,Partial refund corrected
+T021,Delivery,High,"Delivery delayed again, very frustrating.",We understand your concern. Your order is prioritized and will arrive soon.,Negative,1 day,Priority delivery assigned
+T022,Billing,Low,GST not showing in invoice.,We will update your invoice with GST details shortly.,Neutral,1 day,Invoice regenerated
+T023,Technical,Medium,OTP not coming.,Please check network and spam folder. We have resent the OTP.,Negative,1 hour,OTP resend triggered
+T024,Complaint,High,"Received used product, unacceptable.",We sincerely apologize. Replacement will be shipped immediately.,Negative,2 days,Replacement initiated
+T025,Account,Low,How to change my email id?,You can update email in account settings under profile section.,Neutral,1 day,User guided to settings
+T026,Refund,Medium,Return picked but refund pending.,Refund will be processed within 3 days after quality check.,Neutral,3 days,QC completed refund released
+T027,Delivery,High,Order not delivered even after out for delivery.,We regret the inconvenience. Delivery will be reattempted today.,Negative,1 day,Reattempt scheduled
+T028,Technical,Low,App logout automatically.,Please reinstall app and update credentials.,Neutral,1 day,Session bug fixed
+T029,Billing,Medium,Charged extra shipping fee.,We will verify and refund excess amount.,Neutral,2 days,Shipping fee adjusted
+T030,Complaint,High,"Worst experience, product broken.",We apologize deeply. Replacement/refund is being processed.,Negative,2 days,Return pickup arranged
+T031,Account,Medium,Forgot password pls help.,Reset link sent to your registered email.,Neutral,1 hour,Password reset link sent
+T032,Refund,High,Need urgent refund for cancelled order.,Refund will be prioritized and processed within 24 hours.,Neutral,1 day,Priority refund issued
+T033,Delivery,Medium,Package delivered to wrong address.,We are investigating and will arrange redelivery.,Negative,2 days,Address correction applied
+T034,Technical,Low,Images not loading properly.,Please check internet connection or clear cache.,Neutral,1 day,Cache issue resolved
+T035,Billing,High,Card charged but order not placed.,Amount will be reversed automatically within 3 days.,Negative,3 days,Transaction rollback
+T036,Complaint,Medium,Late delivery ruined my plan.,We apologize. We will improve our delivery timelines.,Negative,1 day,Apology compensation issued
+T037,Account,High,Account suspended without reason.,We are reviewing your account and will update shortly.,Negative,2 days,Account review completed
+T038,Refund,Low,Refund received thanks.,Glad to assist you. Thank you for your patience.,Positive,0,No action needed
+T039,Delivery,High,Tracking not updating from 3 days.,We are checking with courier and will update soon.,Neutral,1 day,Tracking refreshed
+T040,Technical,Medium,Search not working properly.,Please update app. Issue has been fixed.,Neutral,1 day,Search bug fixed
+T101,Delivery,High,"My order is still showing out for delivery since morning, no update yet.",We apologize for the delay. We have contacted the courier partner and your order will be delivered by end of day.,Negative,12 hours,Delivery status updated and courier contacted
+T102,Refund,Medium,Its been 4 days I returned item but refund not yet.,Thank you for your patience. Your refund has been processed and will reflect within 2-3 days.,Neutral,2 days,Refund processed after return verification
+T103,Billing,High,Money deducted but order failed what is this?,We regret the inconvenience. The deducted amount will be refunded within 3 business days.,Negative,3 days,Failed transaction reversed
+T104,Technical,Low,App not opening properly after update.,Please reinstall the app or clear cache. Our team has released a fix in latest version.,Neutral,1 day,App patch update applied
+T105,Complaint,High,Received completely different product very disappointed.,We sincerely apologize. A replacement has been initiated and pickup will be scheduled soon.,Negative,2 days,Wrong item return and replacement processed
+T106,Account,Medium,Not able to update my phone number.,Please go to account settings and verify OTP. Contact us if issue persists.,Neutral,1 day,Profile update issue resolved
+T107,Delivery,Medium,Delivery agent came but didnt call me and left.,We regret this experience. A reattempt will be made within 24 hours.,Negative,1 day,Redelivery scheduled
+T108,Refund,High,I cancelled order but refund not received yet pls check.,We have checked your request. Refund is initiated and will be credited shortly.,Neutral,2 days,Refund initiated after cancellation
+T109,Technical,Medium,Website showing error while checkout.,Please try again after clearing cache or switching browser. Issue has been fixed.,Neutral,12 hours,Checkout bug resolved
+T110,Billing,Low,Need invoice copy for my order.,You can download invoice from 'My Orders' section. Let us know if you need help.,Positive,1 day,Invoice download enabled
+T111,Complaint,High,Product quality is very poor not worth money.,We are sorry for the inconvenience. You can return the product for full refund.,Negative,2 days,Return pickup initiated
+T112,Account,High,My account suddenly logged out and now cant login.,Please reset your password using the link sent to your email.,Negative,1 day,Account access restored
+T113,Delivery,Low,Order arrived today thanks!,We are glad your order reached you. Thank you for shopping with us.,Positive,0,No action needed
+T114,Refund,Medium,Refund amount showing but not credited to bank.,Refunds may take 5-7 days. Kindly check with your bank if delayed.,Neutral,5 days,Refund tracking shared
+T115,Billing,High,Charged twice for same product pls resolve asap.,We regret the issue. One transaction will be reversed within 2 days.,Negative,2 days,Duplicate charge reversed
+T116,Technical,Low,Cant see my previous orders in app.,Please refresh or log out and login again. Issue should be resolved.,Neutral,1 day,Session refresh fix applied
+T117,Complaint,Medium,Packaging was torn and item looked used.,We apologize for this. Replacement or refund can be arranged as per your preference.,Negative,2 days,Replacement initiated
+T118,Account,Low,How do I delete my account?,You can request account deletion from settings or contact support for assistance.,Neutral,1 day,Account deletion request processed
+T119,Delivery,High,Order delayed too much this is not acceptable.,We sincerely apologize. Your order has been prioritized and will be delivered soon.,Negative,1 day,Priority shipping applied
+T120,Refund,Medium,Return done but refund still pending.,Refund will be processed after quality check within 3 days.,Neutral,3 days,QC verified and refund released
+T121,Delivery,High,"My package hasn’t moved from the hub since 3 days, whats going on?",We apologize for the delay. We have escalated this with the courier and your order will be delivered within 48 hours.,Negative,2 days,Shipment escalated with logistics partner
+T122,Refund,Medium,I returned the shoes but refund is not credited yet.,Thank you for your patience. The refund has been initiated and will reflect within 3-5 business days.,Neutral,3 days,Refund processed post return verification
+T123,Billing,High,Payment got deducted but order didnt confirm.,We regret the inconvenience. The amount will be automatically refunded within 2-3 days.,Negative,3 days,Transaction rollback completed
+T124,Technical,Low,App is lagging a lot after last update.,Please update to the latest version or reinstall the app. Our team has fixed this issue.,Neutral,1 day,Performance patch deployed
+T125,Complaint,High,"Received damaged item, totally useless.",We sincerely apologize. A replacement has been arranged and pickup will be scheduled shortly.,Negative,2 days,Return and replacement initiated
+T126,Account,Medium,Not receiving OTP on my number.,Please check your network and try again. We have resent the OTP.,Neutral,1 hour,OTP resend triggered
+T127,Delivery,Medium,Delivery agent marked it delivered but I didnt get it.,We are sorry for this issue. We are investigating and will arrange redelivery if required.,Negative,2 days,Delivery dispute raised
+T128,Refund,High,Cancelled order but refund still not processed.,We have checked your request and initiated the refund. It will reflect shortly.,Neutral,2 days,Refund initiated after cancellation
+T129,Technical,Medium,Error showing while applying coupon code.,"Please ensure the coupon is valid. We have fixed the issue, kindly try again.",Neutral,12 hours,Coupon validation issue fixed
+T130,Billing,Low,Need GST invoice for my purchase.,You can download the GST invoice from your orders section.,Positive,1 day,Invoice generated with GST details
+T131,Complaint,High,"Product stopped working in 2 days, very bad quality.",We apologize for the inconvenience. A replacement or refund can be arranged.,Negative,2 days,Warranty claim processed
+T132,Account,High,Account got locked suddenly pls unlock.,Your account has been unlocked. Please reset your password for security.,Negative,1 day,Account unlock and reset enforced
+T133,Delivery,Low,Order came a bit late but okay.,Thank you for your understanding. We appreciate your patience.,Positive,0,No action needed
+T134,Refund,Medium,Refund initiated but not showing in bank yet.,Refunds may take up to 5-7 days. Please check with your bank if delayed.,Neutral,5 days,Refund tracking ID shared
+T135,Billing,High,Got charged extra for delivery why??,We will review your order and refund any extra charges if applicable.,Negative,2 days,Shipping charge adjusted
+T136,Technical,Low,Search results not relevant in app.,We have improved our search algorithm. Please try again.,Neutral,1 day,Search indexing optimized
+T137,Complaint,Medium,Item packaging was open when delivered.,We apologize for this. We can arrange a replacement if needed.,Negative,2 days,Replacement option provided
+T138,Account,Low,How can I change my password?,You can change your password from account settings under security.,Neutral,1 day,Password update guidance provided
+T139,Delivery,High,Order delayed again this is very annoying.,We understand your frustration. Your order is now prioritized for delivery.,Negative,1 day,Priority dispatch applied
+T140,Refund,Medium,Returned product but refund still pending pls check.,Refund will be processed after inspection within 3 days.,Neutral,3 days,Quality check completed and refund released
+T141,Delivery,High,"My order is delayed again, it keeps getting postponed.",We apologize for the inconvenience. Your order has been prioritized and will be delivered within 24 hours.,Negative,1 day,Priority delivery assigned
+T142,Refund,Medium,I returned the item 5 days ago but refund not received yet.,Thank you for your patience. Your refund has been processed and will reflect in 2-3 business days.,Neutral,3 days,Refund processed after return verification
+T143,Billing,High,Amount deducted but no order confirmation received.,We regret the inconvenience. The deducted amount will be refunded within 3 business days.,Negative,3 days,Payment reversal initiated
+T144,Technical,Low,App is freezing when I try to open cart.,Please update or reinstall the app. The issue has been resolved in the latest version.,Neutral,1 day,App stability fix deployed
+T145,Complaint,High,"Received a broken product, very disappointed.",We sincerely apologize. A replacement has been initiated and pickup will be scheduled soon.,Negative,2 days,Replacement and return arranged
+T146,Account,Medium,Unable to login even after entering correct password.,Please reset your password using the 'Forgot Password' option. A reset link has been sent.,Negative,1 day,Password reset flow triggered
+T147,Delivery,Medium,Delivery guy didnt even attempt delivery and marked failed.,We regret this experience. A reattempt will be scheduled within 24 hours.,Negative,1 day,Redelivery attempt scheduled
+T148,Refund,Low,Got my refund today thanks!,We’re glad your issue is resolved. Thank you for your patience.,Positive,0,No action needed
+T149,Technical,Medium,Website showing error while making payment.,Please try again after clearing cache or using another browser. The issue has been fixed.,Neutral,12 hours,Payment gateway issue resolved
+T150,Billing,Low,Need help downloading my invoice.,You can download your invoice from the 'My Orders' section. Let us know if you need assistance.,Positive,1 day,Invoice download enabled
